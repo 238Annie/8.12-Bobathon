@@ -1,4 +1,4 @@
-﻿# ShieldBuy — 防衝動購物模式 計畫文件
+# ShieldBuy — 防衝動購物模式 計畫文件
 
 ## Top-Level Overview
 
@@ -22,7 +22,7 @@
 
 ## Sub-Task 1 — 主畫面：防衝動購物模式開關
 
-**Status**：[ ] pending
+**Status**：[x] done
 
 ### Intent
 設計 App 主畫面，核心是一個大型模式切換開關，讓使用者直覺理解「開 = 全面保護、關 = 正常瀏覽」。介面針對中老年使用者優化（大字、高對比、簡單圖示）。
