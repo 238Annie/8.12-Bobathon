@@ -50,7 +50,7 @@ class HomeScreen extends ConsumerWidget {
                       BoxShadow(
                         color: mode.masterEnabled
                             ? const Color(0xFF4CAF50).withOpacity(0.35)
-                            : Colors.grey.withOpacity(0.25),
+                            : const Color(0xFFE53935).withOpacity(0.25),
                         blurRadius: 20,
                         offset: const Offset(0, 8),
                       ),
